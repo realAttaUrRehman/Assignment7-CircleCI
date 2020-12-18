@@ -1,6 +1,6 @@
 # Getting started
 
-Simple calculator API hosted on APIMATIC
+Simple calculator API hosted on APIMATIC.io
 
 ## How to Build
 
